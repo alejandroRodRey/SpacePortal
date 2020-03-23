@@ -1,5 +1,5 @@
 # SpacePortal
-Android/Windows - Shoot'em up 2D
+Android / Windows - Shoot'em up 2D
 
 Link Android: https://play.google.com/store/apps/details?id=com.rdzsystems.SpacePortal
 
