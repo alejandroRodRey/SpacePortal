@@ -4,9 +4,13 @@ Android/Windows - Shoot'emup 2D
 Link Android: https://play.google.com/store/apps/details?id=com.rdzsystems.SpacePortal
 
 Aplicación realizada con Unity.
+
 Tipo de juego: Shoot'emup 2D (Juego Infinito).
-Público Objetivo y ESRB: Todos los públicos –E (Everyone).
+
+Público Objetivo y ESRB: Todos los públicos – E (Everyone).
+
 Fecha de lanzamiento: Marzo 2020 (PC / Android).
+
 Precio de lanzamiento: FREE
 
 Descripción del juego:
