@@ -2,6 +2,7 @@
 Android / Windows - Shoot'em up 2D
 
 Link Android: https://play.google.com/store/apps/details?id=com.rdzsystems.SpacePortal
+Link Windows: https://mega.nz/#!pJdVkC5L!2Q9zI9640HTiRz7QOTK4xx4g4QXdIjw100-4T2LIMT4
 
 Tipo de juego: Shoot'em up 2D (Juego Infinito).
 
